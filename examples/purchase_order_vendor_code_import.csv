@@ -1,0 +1,2 @@
+name,partner_id,order_line/vendor_product_code_import,order_line/product_qty,order_line/price_unit
+PTEST-VENDOR-001,CHINASS,ABC-12345,24,0.8781
